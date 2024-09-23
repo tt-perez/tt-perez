@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Taimary! 👋
 
-<!--
-**tt-perez/tt-perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a tech enthusiast with a passion for learning and creating. 🚀
 
-Here are some ideas to get you started:
+- 🌱 Currently studying Computer Science.
+- 💬 Specialized in Frontend Development.
+- 📫 Contact: taimarytrimino@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- Telegram: http://t.me/Taimarytp
+
+---
+
+Thanks for visiting my profile! 😊
+
