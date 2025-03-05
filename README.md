@@ -5,7 +5,7 @@ I'm a tech enthusiast with a passion for learning and creating. 🚀
 
 - 🌱 Currently studying Computer Science.
 - 💬 Specialized in Frontend Development.
-- 📫 Contact: taimarytrimino@gmail.com.
+- 📫 Contact: ttriminoperez@gmail.com.
 
 ## Connect with Me
 - Telegram: http://t.me/Taimarytp
