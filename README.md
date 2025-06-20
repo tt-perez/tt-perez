@@ -3,7 +3,7 @@
 ## About Me
 I'm a tech enthusiast with a passion for learning and creating. 🚀
 
-- 🌱 Currently studying Computer Science.
+- 🌱 Bachelor's degree in Computer Science.
 - 💬 Specialized in Frontend Development.
 - 📫 Contact: ttriminoperez@gmail.com.
 
